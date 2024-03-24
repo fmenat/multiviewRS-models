@@ -14,6 +14,7 @@ Multi3Net | [Rudner et al. 2019](https://doi.org/10.1609/aaai.v33i01.3301702) | 
 UNet-CLSTM | [Rustowicz et al. 2019](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.html)  | Decision-level fusion with 2D CNN and convolutional-LSTM | https://github.com/roserustowicz/crop-type-mapping |
 HRWN | [Zhao et al. 2020](https://doi.org/10.1109/TGRS.2020.2982064) | Input-level fusion with 2D CNN and pixel graph constraints. | https://github.com/xudongzhao461/HRWN |
 FusAtNet | [Mohla et al. 2020](https://doi.org/10.1109/CVPRW50498.2020.00054) | Feature-level fusion with 2D CNN and cross attention. | https://github.com/ShivamP1993/FusAtNet |
+LFMC from SAR | [Rao et al](https://doi.org/10.1016/j.rse.2020.111797) | Input-level fusion with LSTM | https://github.com/kkraoj/lfmc_from_sar |
 CCR-Net | [Wu et al. 2021](https://doi.org/10.1109/TGRS.2021.3124913) | Feature-level fusion with 2D CNN and cross view-reconstruction. | https://github.com/danfenghong/IEEE_TGRS_CCR-Net |
 MV PSE-TAE | [Ofori-Ampofo et al. 2021](https://doi.org/10.3390/rs13224668) | Multiple fusion strategies with PSE-TAE. | https://github.com/ellaampy/CropTypeMapping |
 MDL-RS | [Hong et al. 2021](https://doi.org/10.1109/TGRS.2020.3016820) | Multiple fusion strategies with NN. | https://github.com/danfenghong/IEEE_TGRS_MDL-RS |
@@ -35,10 +36,15 @@ CMAFF | [Qingyun et al. 2022](https://doi.org/10.1016/j.patcog.2022.108786) | De
 OmbriaNet | [Drakonakis et al. 2022](https://doi.org/10.1109/JSTARS.2022.3155559) | Feature fusion with 2D CNN and skip-connections | https://github.com/geodrak/OMBRIA |
 DCSA-Net | [Wang et al. 2022](https://doi.org/10.3390/rs14194941) | Hybrid fusion with 2D CNN and attention. | https://github.com/Julia90/DCSA-Net |
 Siamese U-Net | [Cummings et al. 2022](https://doi.org/10.1109/IGARSS46834.2022.9884834) | Dense fusion with 2D CNN and skip-connections | https://github.com/solcummings/earthvision2021-weakly-supervised |
+SatViT | [Fuller et al.](https://doi.org/10.1109/LGRS.2022.3201489) | Input-level fusion with ViT (with self-supervised training) |  https://github.com/antofuller/SatViT |
 ELECTS | [Russwurm et al. 2023](https://doi.org/10.1016/j.isprsjprs.2022.12.016) | Input-level fusion with LSTM. | https://github.com/marccoru/elects |
 MV CNN | [Ferrari et al. 2023](https://doi.org/10.1109/LGRS.2023.3242430) | Multiple fusion strategies with 2D CNN (encoder-decoder) | https://github.com/felferrari/deforestation-from-data-fusion |
 AFCF3D-Net | [Ye et al. 2023](https://arxiv.org/abs/2302.05109) | Input-level fusion with 3D CNN. | https://github.com/wm-Githuber/AFCF3D-Net |
 UnCRtainTS | [Ebel et al 2023](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Ebel_UnCRtainTS_Uncertainty_Quantification_for_Cloud_Removal_in_Optical_Satellite_Time_CVPRW_2023_paper.html) | Input fusion with 2D CNN and attention. | https://github.com/PatrickTUM/UnCRtainTS |
+MFT | [Roy et al. 2023](https://doi.org/10.1109/TGRS.2023.3286826) | Feature-level fusion with transformer modules (one source - LIDAR- is used as a query over the main source - optical) | https://github.com/AnkurDeria/MFT |
+OOD Fusion | [Gawlikowski et al. 2023](https://doi.org/10.1186/s13634-023-01008-z) | Input-level, Feature-level, and Decision-level fusion with CNN and weighted average aggregation | https://github.com/JakobCode/OOD_DataFusion |
+PRESTO | [Tseng et al. 2023](http://arxiv.org/abs/2304.14065) | Input-level fusion with transformer modules (self-supervised pretraining) | https://github.com/nasaharvest/presto |
+SCT Fusion | [Hoffman et al. 2023](https://doi.org/10.1109/IGARSS52108.2023.10281927) | Dense fusion with tranformer layers and class tokens in all |  https://git.tu-berlin.de/rsim/sct-fusion |
 
 > Feel free to ask me to update some content! 
 
