@@ -44,7 +44,12 @@ UnCRtainTS | [Ebel et al 2023](https://openaccess.thecvf.com/content/CVPR2023W/E
 MFT | [Roy et al. 2023](https://doi.org/10.1109/TGRS.2023.3286826) | Feature-level fusion with transformer modules (one source - LIDAR- is used as a query over the main source - optical) | https://github.com/AnkurDeria/MFT |
 OOD Fusion | [Gawlikowski et al. 2023](https://doi.org/10.1186/s13634-023-01008-z) | Input-level, Feature-level, and Decision-level fusion with CNN and weighted average aggregation | https://github.com/JakobCode/OOD_DataFusion |
 PRESTO | [Tseng et al. 2023](http://arxiv.org/abs/2304.14065) | Input-level fusion with transformer modules (self-supervised pretraining) | https://github.com/nasaharvest/presto |
+Cross-HL | [Roy et al. 2023](https://ieeexplore.ieee.org/document/10462184) | Feature-level fusion with directed attention in transformer layers |  https://github.com/AtriSukul1508/Cross-HL |
 SCT Fusion | [Hoffman et al. 2023](https://doi.org/10.1109/IGARSS52108.2023.10281927) | Dense fusion with tranformer layers and class tokens in all |  https://git.tu-berlin.de/rsim/sct-fusion |
+EarthGPT | [Zhang et al. 2024](http://arxiv.org/abs/2401.16822) | Feature-level fusion with transformer layers | https://github.com/wivizhang/EarthGPT |
+ContextFormer | [Benson et al. 2024](http://arxiv.org/abs/2303.16198) | Feature-level fusion with transformer | https://github.com/vitusbenson/greenearthnet |
+
+
 
 > Feel free to ask me to update some content! 
 
