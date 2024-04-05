@@ -48,6 +48,7 @@ Cross-HL | [Roy et al. 2023](https://ieeexplore.ieee.org/document/10462184) | Fe
 SCT Fusion | [Hoffman et al. 2023](https://doi.org/10.1109/IGARSS52108.2023.10281927) | Dense fusion with tranformer layers and class tokens in all |  https://git.tu-berlin.de/rsim/sct-fusion |
 EarthGPT | [Zhang et al. 2024](http://arxiv.org/abs/2401.16822) | Feature-level fusion with transformer layers | https://github.com/wivizhang/EarthGPT |
 ContextFormer | [Benson et al. 2024](http://arxiv.org/abs/2303.16198) | Feature-level fusion with transformer | https://github.com/vitusbenson/greenearthnet |
+MMST-ViT | [Lin et al. 2023](https://ieeexplore.ieee.org/abstract/document/10376769) | Feature-level fusion with transformer layers | https://github.com/fudong03/MMST-ViT |
 
 
 
