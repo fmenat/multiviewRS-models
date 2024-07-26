@@ -22,6 +22,7 @@ CMGFNet | [Hosseinpour et al. 2022](https://doi.org/10.1016/j.isprsjprs.2021.12.
 S2FL | [Hong et al. 2021](https://doi.org/10.1016/j.isprsjprs.2021.05.011) | Feature-level fusion with feature contrains. | https://github.com/danfenghong/ISPRS_S2FL |
 CFCNN | [He et al. 2021](https://doi.org/10.1109/TGRS.2020.3028622) | Feature-level fusion with 2D and 1D CNN.  | https://github.com/SysuHe/MultiSourceData_CFCNN |
 MV NN | [Danilevicz et al. 2021](https://doi.org/10.3390/rs13193976) | Feature-level fusion with tabular NN and 2D CNN. | https://github.com/mdanilevicz/maize_early_yield_prediction |
+SEnSeI | [Francis et al. 2022](https://ieeexplore.ieee.org/abstract/document/9615070) | Sensor invariant model based on 2D CNN |https://github.com/aliFrancis/SEnSeI |
 ASF2N | [Gao et al. 2022](https://doi.org/10.1016/j.jag.2022.102687) | Feature-level fusion with 2D CNN and attention. | https://github.com/zhonghaocheng/ELSEVIER_IJAEOG_AS2F2N  << Empty code|
 IP-CNN | [Zhang et al. 2022](https://doi.org/10.1109/TGRS.2021.3093334) | Feature-level fusion with 2D CNN and view-reconstruction. | https://github.com/HelloPiPi/IP-CNN-code |
 MV CNN | [Lu et al. 2022](https://doi.org/10.1016/j.rse.2021.112830)| Feature-level fusion with 2D CNN and adaptive attention. | https://github.com/GeoX-Lab/UnifiedDL-UFZ-extraction |
@@ -47,9 +48,12 @@ PRESTO | [Tseng et al. 2023](http://arxiv.org/abs/2304.14065) | Input-level fusi
 Cross-HL | [Roy et al. 2023](https://ieeexplore.ieee.org/document/10462184) | Feature-level fusion with directed attention in transformer layers |  https://github.com/AtriSukul1508/Cross-HL |
 SCT Fusion | [Hoffman et al. 2023](https://doi.org/10.1109/IGARSS52108.2023.10281927) | Dense fusion with tranformer layers and class tokens in all |  https://git.tu-berlin.de/rsim/sct-fusion |
 MMST-ViT | [Lin et al. 2023](https://ieeexplore.ieee.org/abstract/document/10376769) | Feature-level fusion with transformer layers | https://github.com/fudong03/MMST-ViT |
+DiffusionSat | [Khanna et al. 2023](https://arxiv.org/abs/2312.03606) | Multi-modal diffusion generative model |  https://github.com/samar-khanna/DiffusionSat |
+SSL4EO-S12 | [Wang et al. 2024](https://ieeexplore.ieee.org/abstract/document/10261879) | Self-supervised model | https://github.com/zhu-xlab/SSL4EO-S12 |
 EarthGPT | [Zhang et al. 2024](http://arxiv.org/abs/2401.16822) | Feature-level fusion with transformer layers | https://github.com/wivizhang/EarthGPT |
 ContextFormer | [Benson et al. 2024](http://arxiv.org/abs/2303.16198) | Feature-level fusion with transformer | https://github.com/vitusbenson/greenearthnet |
-
+SEnSeIv2 | [Francis 2024](https://ieeexplore.ieee.org/document/10505181) | Sensor-invariant model | https://github.com/aliFrancis/SEnSeIv2 | 
+OmniSat | [Astruc et al. 2024](http://arxiv.org/abs/2404.0835) | Feature-level fusion with transformer layers and pre-training | https://github.com/gastruc/OmniSat |
 
 
 > Feel free to ask me to update some content! 
