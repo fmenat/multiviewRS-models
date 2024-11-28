@@ -1,4 +1,4 @@
-# Remote Sensing based Multi-view Models
+# Remote Sensing based Multi-view Models that performs Data Fusion
  List of multi-view fusion learning models proposed for remote sensing (RS) multi-view data. :satellite: :earth_americas: :satellite:
 
 This is a complementary source used in the following paper:  
@@ -55,6 +55,9 @@ ContextFormer | [Benson et al. 2024](http://arxiv.org/abs/2303.16198) | Feature-
 SEnSeIv2 | [Francis 2024](https://ieeexplore.ieee.org/document/10505181) | Sensor-invariant model | https://github.com/aliFrancis/SEnSeIv2 | 
 OmniSat | [Astruc et al. 2024](http://arxiv.org/abs/2404.0835) | Feature-level fusion with transformer layers and pre-training | https://github.com/gastruc/OmniSat |
 MMEarth |  [Nedungadi et al. 2024](http://arxiv.org/abs/2405.02771) | Single-view input to predict another views (pretext task) | https://github.com/vishalned/MMEarth-train |
+MambaDifussion | [Du et al. 2024](https://ieeexplore.ieee.org/document/10733944) | Feature level fusion with Mamba over different layers (skip connection) including difussion models | https://github.com/WenliangDu/MambaDiffusion|
+FusionMamba | [Peng et al. 2024](https://ieeexplore.ieee.org/document/10750233) | Dense fusion with Mamba layers | https://github.com/PSRben/FusionMamba |
+
 
 > Feel free to ask me to update some content! 
 
