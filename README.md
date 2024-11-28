@@ -54,7 +54,7 @@ EarthGPT | [Zhang et al. 2024](http://arxiv.org/abs/2401.16822) | Feature-level 
 ContextFormer | [Benson et al. 2024](http://arxiv.org/abs/2303.16198) | Feature-level fusion with transformer | https://github.com/vitusbenson/greenearthnet |
 SEnSeIv2 | [Francis 2024](https://ieeexplore.ieee.org/document/10505181) | Sensor-invariant model | https://github.com/aliFrancis/SEnSeIv2 | 
 OmniSat | [Astruc et al. 2024](http://arxiv.org/abs/2404.0835) | Feature-level fusion with transformer layers and pre-training | https://github.com/gastruc/OmniSat |
-
+MMEarth |  [Nedungadi et al. 2024](http://arxiv.org/abs/2405.02771) | Single-view input to predict another views (pretext task) | https://github.com/vishalned/MMEarth-train |
 
 > Feel free to ask me to update some content! 
 
