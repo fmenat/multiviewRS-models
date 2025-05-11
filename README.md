@@ -1,10 +1,10 @@
 # Remote Sensing based Multi-view Models that performs Data Fusion
- List of multi-view fusion learning models proposed for remote sensing (RS) multi-view data. :satellite: :earth_americas: :satellite:
 
-This is a complementary source used in the following paper:  
-```
-Common Practices and Taxonomy in Deep Multi-view Fusion for Remote Sensing Applications
-```
+> List created based on our work [*Common Practices and Taxonomy in Deep Multiview Fusion for Remote Sensing Applications*](https://ieeexplore.ieee.org/document/10418966)
+---
+
+List of multi-view fusion learning models proposed for remote sensing (RS) multi-view data. :satellite: :earth_americas: :satellite:
+
 
 | Name | Reference | Description | Code |
 |------|-----------|-------------|------|
