@@ -3,6 +3,8 @@
 > List created based on our work [*Common Practices and Taxonomy in Deep Multiview Fusion for Remote Sensing Applications*](https://ieeexplore.ieee.org/document/10418966)
 ---
 
+Foundational models can be found at [TorchGeo](https://torchgeo.readthedocs.io/en/stable/api/models.html) or [HuggingFace](https://huggingface.co/models)
+
 List of multi-view fusion learning models proposed for remote sensing (RS) multi-view data. :satellite: :earth_americas: :satellite:
 
 
