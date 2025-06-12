@@ -5,7 +5,7 @@
 
 Foundational models can be found at [TorchGeo](https://torchgeo.readthedocs.io/en/stable/api/models.html) or [HuggingFace](https://huggingface.co/models)
 
-List of multi-view fusion learning models proposed for remote sensing (RS) multi-view data. :satellite: :earth_americas: :satellite:
+### List of multi-view fusion learning models proposed for remote sensing (RS) multi-view data. :satellite: :earth_americas: :satellite:
 
 
 | Name | Reference | Description | Code |
